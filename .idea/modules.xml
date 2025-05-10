@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Chegg-Onn.iml" filepath="$PROJECT_DIR$/Chegg-Onn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project/Chegg-Onn.iml" filepath="$PROJECT_DIR$/Project/Chegg-Onn.iml" />
     </modules>
   </component>
 </project>

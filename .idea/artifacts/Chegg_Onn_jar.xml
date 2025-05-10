@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Chegg-Onn:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Chegg_Onn_jar</output-path>
-    <root id="archive" name="Chegg-Onn.jar">
-      <element id="module-output" name="Chegg-Onn" />
-    </root>
-  </artifact>
-</component>
